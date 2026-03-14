@@ -2,3 +2,4 @@
 All the basics for begginers trying to learn HTML+CSS
 Hmm im thinking how to make better the readme 
 changes and update are soon
+thinking to add everything
